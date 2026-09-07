@@ -1,0 +1,12 @@
+# Local dev-server config for the Claude Code preview pane
+.claude/
+
+# Working screenshots used while building the site (Google review + Facebook
+# grabs). Not needed by the website — medi/logo.png is kept as the brand source.
+medi/Screenshot*.png
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp

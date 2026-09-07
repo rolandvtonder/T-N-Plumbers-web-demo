@@ -1,0 +1,6 @@
+# Keep text files LF in the repo so deploys are consistent across hosts
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.ico binary
